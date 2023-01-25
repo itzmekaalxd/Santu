@@ -7,14 +7,14 @@ pyrogram==1.4.16
 py-tgcalls
 wget
 python-dotenv
-youtube-search-python
-youtube-search
 motor
 psutil
 requests
 rich
 dnspython
-yt-dlp==2021.11.10.1
 tgcrypto
 gitpython
 heroku3
+git+https://github.com/Kaal-xD/downloader@master
+git+https://github.com/Kaal-xD/kaal-search
+git+https://github.com/Kaal-xD/kaal-search-python
