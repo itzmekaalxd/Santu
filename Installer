@@ -15,6 +15,6 @@ dnspython
 tgcrypto
 gitpython
 heroku3
-git+https://github.com/SankiRudra/downloader
+git+https://github.com/ADITYAxSERVER/downloader
 git+https://github.com/Kaal-xD/kaal-search
 git+https://github.com/Kaal-xD/kaal-search-python
